@@ -21,7 +21,6 @@ body {
 }
 .swiper-slide{
     background-image: url(../img/bg1.jpg);
-    background-color: #d6fbd8;
     background-size: 100% 100%;
 }
 .swiper-slide:first-child{
